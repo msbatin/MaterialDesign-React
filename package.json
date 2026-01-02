@@ -66,6 +66,6 @@
     "webpack-command": "^0.4.2"
   },
   "dependencies": {
-    "prop-types": "^15.7.2"
+    "prop-types": "^15.8.1"
   }
 }
